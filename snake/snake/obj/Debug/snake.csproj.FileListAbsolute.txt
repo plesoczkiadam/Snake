@@ -1,0 +1,15 @@
+Z:\13\snake\snake\bin\Debug\snake.exe.config
+Z:\13\snake\snake\bin\Debug\snake.exe
+Z:\13\snake\snake\bin\Debug\snake.pdb
+Z:\13\snake\snake\obj\Debug\snake.csprojAssemblyReference.cache
+Z:\13\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+Z:\13\snake\snake\obj\Debug\snake.exe
+Z:\13\snake\snake\obj\Debug\snake.pdb
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\bin\Debug\snake.exe
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\bin\Debug\snake.pdb
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\obj\Debug\snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\obj\Debug\snake.exe
+C:\Users\Ádám\OneDrive\Asztali gép\snake\snake\obj\Debug\snake.pdb
